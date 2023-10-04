@@ -1,0 +1,9 @@
+ul{
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+}
+
+li{
+    flex: 1 1 300px;
+}
